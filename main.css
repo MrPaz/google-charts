@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 2rem;
+}
+#line_top_x{
+    margin: 0 auto;
+    width: 900px;
+}
+.title{
+    font-size: 5;
+}
